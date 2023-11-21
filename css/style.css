@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    align-items: center;
+}
+footer{
+    background-color: darkslategrey;
+    /* position: absolute;
+    bottom: 0; */
+}
+#brandsLogo a{
+    filter: grayscale(70%);
+}
+#brandsLogo a:hover{
+    filter: none;
+}
+.cntctSec{
+    height: 600px;
+    margin-top: 8%;
+}
+.left{
+    background-image: blue;
+}
